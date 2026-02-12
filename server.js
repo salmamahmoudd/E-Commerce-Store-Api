@@ -15,7 +15,7 @@ const orderRoutes = require("./routes/order.route");
 const testimonialsRoutes = require("./routes/testimonial.route");
 
 app.use(express.json());
-app.use(cors({ origin: 'http://localhost:4200' }));
+app.use(cors({ origin: '*' }));
 app.use('/uploads', express.static('uploads'));
 
 app.use("/user", userRoutes);
@@ -36,7 +36,7 @@ console.log(process.env.MONGO_URI);
 
 async function connectDb() {
   try {
-    await mongoose.connect(process.env.MONGO_URI,{serverSelectionTimeoutMS:1000});
+    await mongoose.connect(process.env.MONGO_URI, { serverSelectionTimeoutMS: 5000 });;
     console.log("MongoDB connected");
   } catch (err) {
     console.log(err);
