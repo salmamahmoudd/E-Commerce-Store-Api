@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 const app = express();
 
-const PORT = process.env.PORT || 3000; 
+const port = process.env.PORT || 3000;
 
 const userRoutes = require("./routes/user.route");
 const authRoutes = require("./routes/auth.route");
@@ -15,7 +15,7 @@ const orderRoutes = require("./routes/order.route");
 const testimonialsRoutes = require("./routes/testimonial.route");
 
 app.use(express.json());
-app.use(cors({ origin: '*' }));
+app.use(cors({ origin: 'http://localhost:4200' }));
 app.use('/uploads', express.static('uploads'));
 
 app.use("/user", userRoutes);
@@ -36,7 +36,7 @@ console.log(process.env.MONGO_URI);
 
 async function connectDb() {
   try {
-    await mongoose.connect(process.env.MONGO_URI, { serverSelectionTimeoutMS: 5000 });;
+    await mongoose.connect(process.env.MONGO_URI,{serverSelectionTimeoutMS:1000});
     console.log("MongoDB connected");
   } catch (err) {
     console.log(err);
@@ -44,6 +44,6 @@ async function connectDb() {
 }
 connectDb();
 
-app.listen(PORT, () => {
-  console.log(`Server running on port ${PORT}`);
+app.listen(port, () => {
+  console.log(`Server running on port ${port}`);
 });
