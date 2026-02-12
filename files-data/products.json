@@ -1,0 +1,1592 @@
+[{
+  "_id": {
+    "$oid": "69498cc8f19dde09df1add32"
+  },
+  "name": "My Product",
+  "slug": "my-product-1766427848541",
+  "description": "This is product 1",
+  "price": 100,
+  "image": "http://localhost:3000/uploads/c8bf3772cdfb1c5c94f2decdc61e2f60",
+  "category": {
+    "$oid": "69487b168ad6d8c7cc952c54"
+  },
+  "subcategory": {
+    "$oid": "694957ea0d777777cafd35bd"
+  },
+  "stock": 0,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-22T18:24:08.547Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T19:55:11.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69498d3688592a505b39593c"
+  },
+  "name": "My Product 1",
+  "slug": "my-product-1",
+  "description": "This is product 6",
+  "price": 100,
+  "image": "http://localhost:3000/uploads/6a7ea0f6ccf3e9a0f2655ed253553b36",
+  "category": {
+    "$oid": "69487b168ad6d8c7cc952c54"
+  },
+  "subcategory": {
+    "$oid": "694957ea0d777777cafd35bd"
+  },
+  "stock": 0,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-22T18:25:58.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T18:26:55.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6949a12488592a505b395995"
+  },
+  "name": "jacket 2",
+  "slug": "jacket-2",
+  "description": "This is product 6",
+  "price": 10,
+  "image": "http://localhost:3000/uploads/24580f3774134be0850abd70ae5e57df",
+  "category": {
+    "$oid": "69487b168ad6d8c7cc952c54"
+  },
+  "subcategory": {
+    "$oid": "694957ea0d777777cafd35bd"
+  },
+  "stock": 10,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-22T19:51:00.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-24T15:10:10.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694bfa5683be84a5b76d5171"
+  },
+  "name": "Men’s Classic Blazer",
+  "slug": "men’s-classic-blazer",
+  "description": "Upgrade your wardrobe with this stylish men’s blazer, designed to give you a sharp and confident look. Made from high-quality fabric, it offers comfort, durability, and a perfect fit for both formal and semi-formal occasions.",
+  "price": 500,
+  "image": "http://localhost:3000/uploads/da82b0bd09fd78225c23b538e6b36cae",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "6949961088592a505b39595f"
+  },
+  "stock": 15,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-24T14:36:06.305Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:08:32.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694bfb8c1ac5d3753c2f49fa"
+  },
+  "name": "jacket 7",
+  "slug": "jacket-7",
+  "description": "This is product 55",
+  "price": 10,
+  "image": "http://localhost:3000/uploads/94424d099c99c8a01a5ff6b8ec6ba77e",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "694957ea0d777777cafd35bd"
+  },
+  "stock": 0,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-24T14:41:16.277Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T15:11:00.634Z"
+  },
+  "__v": 5,
+  "reviews": [
+    {
+      "user": "salma",
+      "comment": "good",
+      "rating": 4,
+      "_id": {
+        "$oid": "6956af38e55795df78aafa15"
+      },
+      "date": {
+        "$date": "2026-01-01T17:30:32.066Z"
+      }
+    },
+    {
+      "user": "khaled",
+      "comment": "nice",
+      "rating": 5,
+      "_id": {
+        "$oid": "69581a088572614fec6be098"
+      },
+      "date": {
+        "$date": "2026-01-02T19:18:32.911Z"
+      }
+    },
+    {
+      "user": "ahmed",
+      "comment": "wow",
+      "rating": 0,
+      "_id": {
+        "$oid": "695d890d52868ab89048e2b4"
+      },
+      "date": {
+        "$date": "2026-01-06T22:13:33.267Z"
+      }
+    },
+    {
+      "user": "",
+      "comment": "",
+      "rating": 0,
+      "_id": {
+        "$oid": "695d8a2352868ab89048e2cf"
+      },
+      "date": {
+        "$date": "2026-01-06T22:18:11.818Z"
+      }
+    },
+    {
+      "user": "memo",
+      "comment": "very good",
+      "rating": 4,
+      "_id": {
+        "$oid": "695d8a8e52868ab89048e2d6"
+      },
+      "date": {
+        "$date": "2026-01-06T22:19:58.038Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "695121b415b7dec6d2ef811d"
+  },
+  "name": "Men’s Formal Style Blazer",
+  "slug": "men’s-formal-style-blazer",
+  "description": "Upgrade your wardrobe with this stylish men’s blazer, designed to give you a sharp and confident look. Made from high-quality fabric, it offers comfort, durability, and a perfect fit for both formal and semi-formal occasions.",
+  "price": 500,
+  "image": "http://localhost:3000/uploads/065bd69592059e96ee6ae6c03d9118dd",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "6949961088592a505b39595f"
+  },
+  "stock": 15,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-28T12:25:24.968Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:08:50.993Z"
+  },
+  "__v": 2,
+  "reviews": [
+    {
+      "user": "salma",
+      "comment": "love",
+      "rating": 5,
+      "_id": {
+        "$oid": "6951838f6c3a09393cb4b1c1"
+      },
+      "date": {
+        "$date": "2025-12-28T19:22:55.907Z"
+      }
+    },
+    {
+      "user": "omaya",
+      "comment": "good",
+      "rating": 10,
+      "_id": {
+        "$oid": "695183a66c3a09393cb4b1c9"
+      },
+      "date": {
+        "$date": "2025-12-28T19:23:18.210Z"
+      }
+    }
+  ],
+  "soldCount": 2
+},
+{
+  "_id": {
+    "$oid": "695123a817f702ae6b1d7f8e"
+  },
+  "name": "Men’s Modern Fit Blazer",
+  "slug": "men’s-modern-fit-blazer",
+  "description": "Upgrade your wardrobe with this stylish men’s blazer, designed to give you a sharp and confident look. Made from high-quality fabric, it offers comfort, durability, and a perfect fit for both formal and semi-formal occasions.",
+  "price": 300,
+  "image": "http://localhost:3000/uploads/608152eed57366f382fada7b547c901b",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "6949961088592a505b39595f"
+  },
+  "stock": 14,
+  "ratingsAverage": 4,
+  "ratingsQuantity": 0,
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-28T12:33:44.785Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:10:02.851Z"
+  },
+  "__v": 1,
+  "reviews": [
+    {
+      "user": "memo",
+      "comment": "nice",
+      "rating": 5,
+      "_id": {
+        "$oid": "6956af57e55795df78aafa3a"
+      },
+      "date": {
+        "$date": "2026-01-01T17:31:03.779Z"
+      }
+    }
+  ],
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "6951278b17f702ae6b1d7fb0"
+  },
+  "name": "Men’s Timeless Blazer Jacket",
+  "slug": "men’s-timeless-blazer-jacket",
+  "description": "Upgrade your wardrobe with this stylish men’s blazer, designed to give you a sharp and confident look. Made from high-quality fabric, it offers comfort, durability, and a perfect fit for both formal and semi-formal occasions.",
+  "price": 800,
+  "image": "http://localhost:3000/uploads/7e3b7b52c374dd0fec93dbc57b03e77a",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "stock": 6,
+  "ratingsAverage": 2,
+  "ratingsQuantity": 0,
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-28T12:50:19.382Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T15:16:20.257Z"
+  },
+  "__v": 0,
+  "subcategory": {
+    "$oid": "6949961088592a505b39595f"
+  }
+},
+{
+  "_id": {
+    "$oid": "69513f59842a7e81dbf20d62"
+  },
+  "name": "Men’s Premium Casual Blazer",
+  "slug": "men’s-premium-casual-blazer",
+  "description": "Upgrade your wardrobe with this stylish men’s blazer, designed to give you a sharp and confident look. Made from high-quality fabric, it offers comfort, durability, and a perfect fit for both formal and semi-formal occasions.",
+  "price": 300,
+  "image": "http://localhost:3000/uploads/da87903879fb9f43b93633a97cbb8920",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "6949961088592a505b39595f"
+  },
+  "stock": 10,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-28T14:31:53.884Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:49:36.340Z"
+  },
+  "__v": 4,
+  "reviews": [
+    {
+      "user": "salma",
+      "comment": "good",
+      "rating": 10,
+      "_id": {
+        "$oid": "695183e36c3a09393cb4b1da"
+      },
+      "date": {
+        "$date": "2025-12-28T19:24:19.371Z"
+      }
+    },
+    {
+      "user": "omaya",
+      "comment": "love",
+      "rating": 5,
+      "_id": {
+        "$oid": "695183f76c3a09393cb4b1de"
+      },
+      "date": {
+        "$date": "2025-12-28T19:24:39.951Z"
+      }
+    },
+    {
+      "user": "ahmed",
+      "comment": "wow",
+      "rating": 4.5,
+      "_id": {
+        "$oid": "6951840d6c3a09393cb4b1e3"
+      },
+      "date": {
+        "$date": "2025-12-28T19:25:01.889Z"
+      }
+    },
+    {
+      "user": "memo",
+      "comment": "hh",
+      "rating": 3,
+      "_id": {
+        "$oid": "6951842b6c3a09393cb4b1ee"
+      },
+      "date": {
+        "$date": "2025-12-28T19:25:31.512Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69513f90842a7e81dbf20d68"
+  },
+  "name": "Women’s Chic Blazer",
+  "slug": "women’s-chic-blazer",
+  "description": "Elevate your style with this chic blazer, perfect for both office and casual outings. Its sleek design and comfortable fit make it a must-have for every wardrobe. ✨ Features: Tailored fit, soft fabric, versatile for day & night looks.",
+  "price": 800,
+  "image": "http://localhost:3000/uploads/b4abc43bc4758b249c383e656624b0e7",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695fec6dd510e433214aedde"
+  },
+  "stock": 6,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-28T14:32:48.946Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T13:59:45.849Z"
+  },
+  "__v": 1,
+  "reviews": [],
+  "soldCount": 4
+},
+{
+  "_id": {
+    "$oid": "695837c600846d351b0aedf1"
+  },
+  "name": "Women’s Elegant Tailored Blazer",
+  "slug": "women’s-elegant-tailored-blazer",
+  "description": "Elevate your style with this chic blazer, perfect for both office and casual outings. Its sleek design and comfortable fit make it a must-have for every wardrobe. ✨ Features: Tailored fit, soft fabric, versatile for day & night looks.",
+  "price": 400,
+  "image": "http://localhost:3000/uploads/6f952955ab0dad525be4d84c2926b21a",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695fec6dd510e433214aedde"
+  },
+  "stock": 4,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-02T21:25:26.511Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T13:59:45.868Z"
+  },
+  "__v": 0,
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "695940659e0ccfb0d40f9bcb"
+  },
+  "name": "Women’s Modern Fit Blazer",
+  "slug": "women’s-modern-fit-blazer",
+  "description": "Elevate your style with this chic blazer, perfect for both office and casual outings. Its sleek design and comfortable fit make it a must-have for every wardrobe. ✨ Features: Tailored fit, soft fabric, versatile for day & night looks.",
+  "price": 370,
+  "image": "http://localhost:3000/uploads/4ec2c5b73f38ec0fab2e5217611ba75e",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695fec6dd510e433214aedde"
+  },
+  "stock": 0,
+  "ratingsAverage": 3,
+  "isActive": false,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-03T16:14:29.825Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:09:59.755Z"
+  },
+  "__v": 0,
+  "soldCount": 4
+},
+{
+  "_id": {
+    "$oid": "695971273e910f036ae3cde7"
+  },
+  "name": "Women’s Classic Blazer Jacket",
+  "slug": "women’s-classic-blazer-jacket",
+  "description": "Elevate your style with this chic blazer, perfect for both office and casual outings. Its sleek design and comfortable fit make it a must-have for every wardrobe. ✨ Features: Tailored fit, soft fabric, versatile for day & night looks.",
+  "price": 1500,
+  "image": "http://localhost:3000/uploads/9d95c866a1f898f4803d4359a0b6a3fa",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695fec6dd510e433214aedde"
+  },
+  "stock": 2,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-03T19:42:31.500Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-26T14:53:37.924Z"
+  },
+  "__v": 0,
+  "soldCount": 6
+},
+{
+  "_id": {
+    "$oid": "695ea27d540c450b715df80a"
+  },
+  "name": "Women’s Stylish Office Blazer",
+  "slug": "women’s-stylish-office-blazer",
+  "description": "Elevate your style with this chic blazer, perfect for both office and casual outings. Its sleek design and comfortable fit make it a must-have for every wardrobe. ✨ Features: Tailored fit, soft fabric, versatile for day & night looks.",
+  "price": 490,
+  "image": "http://localhost:3000/uploads/06bd9826b0c2c2cc14119fa1e1318815",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695fec6dd510e433214aedde"
+  },
+  "stock": 14,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-07T18:14:21.765Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:49:47.241Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fef51d510e433214aeed4"
+  },
+  "name": "Men’s Casual Button-Up Shirt",
+  "slug": "men’s-casual-button-up-shirt",
+  "description": "A versatile shirt perfect for daily wear or casual outings. Its soft fabric and relaxed fit make it comfortable all day long. ✨ Features: Button-up design, breathable fabric, easy to style with jeans or chinos.",
+  "price": 500,
+  "image": "http://localhost:3000/uploads/2d0288cfd9dfefa2f872682588bf5fa8",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695fee77d510e433214aeec0"
+  },
+  "stock": 6,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T17:54:25.238Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:54:25.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fef85d510e433214aeede"
+  },
+  "name": "Men’s Modern Casual Tee Shirt",
+  "slug": "men’s-modern-casual-tee-shirt",
+  "description": "A versatile shirt perfect for daily wear or casual outings. Its soft fabric and relaxed fit make it comfortable all day long. ✨ Features: Button-up design, breathable fabric, easy to style with jeans or chinos.",
+  "price": 490,
+  "image": "http://localhost:3000/uploads/af5ac39f87246b35d1d86dbb344e8a34",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695fee77d510e433214aeec0"
+  },
+  "stock": 10,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T17:55:17.193Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:55:17.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff04fd510e433214aeee8"
+  },
+  "name": "Men’s Relaxed Fit Shirt",
+  "slug": "men’s-relaxed-fit-shirt",
+  "description": "A versatile shirt perfect for daily wear or casual outings. Its soft fabric and relaxed fit make it comfortable all day long. ✨ Features: Button-up design, breathable fabric, easy to style with jeans or chinos.",
+  "price": 600,
+  "image": "http://localhost:3000/uploads/2a9c6a2af5957a30466ee0c2b0ef81f0",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695fee77d510e433214aeec0"
+  },
+  "stock": 7,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T17:58:39.115Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:58:39.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff080d510e433214aeef2"
+  },
+  "name": "Men’s Classic Polo Shirt",
+  "slug": "men’s-classic-polo-shirt",
+  "description": "A versatile shirt perfect for daily wear or casual outings. Its soft fabric and relaxed fit make it comfortable all day long. ✨ Features: Button-up design, breathable fabric, easy to style with jeans or chinos.",
+  "price": 760,
+  "image": "http://localhost:3000/uploads/742157a658341c96ef1266d862c2975d",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695fee77d510e433214aeec0"
+  },
+  "stock": 7,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T17:59:28.186Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:59:28.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff249d510e433214aef36"
+  },
+  "name": "Women’s Elegant Blouse",
+  "slug": "women’s-elegant-blouse",
+  "description": "Perfect for both office and casual outings, this elegant blouse adds a touch of sophistication to your wardrobe. ✨ Features: Lightweight fabric, flattering fit, versatile styling with skirts or trousers.",
+  "price": 500,
+  "image": "http://localhost:3000/uploads/566a8c135117dd8ca6dba12b3ee251e8",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695feec8d510e433214aeec7"
+  },
+  "stock": 2,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:07:05.847Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:25:57.385Z"
+  },
+  "__v": 0,
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "695ff26ed510e433214aef40"
+  },
+  "name": "Women’s Casual Chic Blouse",
+  "slug": "women’s-casual-chic-blouse",
+  "description": "Perfect for both office and casual outings, this elegant blouse adds a touch of sophistication to your wardrobe. ✨ Features: Lightweight fabric, flattering fit, versatile styling with skirts or trousers.",
+  "price": 480,
+  "image": "http://localhost:3000/uploads/b7b77ca52df3f6c6985730dda92774e5",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695feec8d510e433214aeec7"
+  },
+  "stock": 5,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:07:42.405Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T13:59:45.872Z"
+  },
+  "__v": 0,
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "695ff290d510e433214aef4a"
+  },
+  "name": "Women’s Stylish Printed Blouse",
+  "slug": "women’s-stylish-printed-blouse",
+  "description": "Perfect for both office and casual outings, this elegant blouse adds a touch of sophistication to your wardrobe. ✨ Features: Lightweight fabric, flattering fit, versatile styling with skirts or trousers",
+  "price": 800,
+  "image": "http://localhost:3000/uploads/8ac555140d18a0a1fa9ee20b0c8588c9",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695feec8d510e433214aeec7"
+  },
+  "stock": 7,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:08:16.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T13:59:45.877Z"
+  },
+  "__v": 0,
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "695ff2afd510e433214aef54"
+  },
+  "name": "Women’s Classic Button-Up Blouse",
+  "slug": "women’s-classic-button-up-blouse",
+  "description": "Perfect for both office and casual outings, this elegant blouse adds a touch of sophistication to your wardrobe. ✨ Features: Lightweight fabric, flattering fit, versatile styling with skirts or trousers.",
+  "price": 390,
+  "image": "http://localhost:3000/uploads/2a9a9a86beb56cd9b95d5e42f3c3c527",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695feec8d510e433214aeec7"
+  },
+  "stock": 7,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:08:47.414Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T13:59:45.880Z"
+  },
+  "__v": 0,
+  "soldCount": 2
+},
+{
+  "_id": {
+    "$oid": "695ff53fd510e433214aef9b"
+  },
+  "name": "Men’s Classic Slim Fit Pants",
+  "slug": "men’s-classic-slim-fit-pants",
+  "description": "Elevate your wardrobe with these slim-fit classic pants, perfect for office or formal events. ✨ Features: Tailored fit, premium fabric, versatile for work or casual pairing.",
+  "price": 600,
+  "image": "http://localhost:3000/uploads/cdf55c265daad216422d8a0f07bf9706",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ff44dd510e433214aef73"
+  },
+  "stock": 7,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:19:43.609Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:20:34.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff564d510e433214aefa5"
+  },
+  "name": "Men’s Formal Straight-Leg Pants",
+  "slug": "men’s-formal-straight-leg-pants",
+  "description": "Elevate your wardrobe with these slim-fit classic pants, perfect for office or formal events. ✨ Features: Tailored fit, premium fabric, versatile for work or casual pairing.",
+  "price": 870,
+  "image": "http://localhost:3000/uploads/8cdbd0b6559a9e5170fe2ddc9f192327",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ff44dd510e433214aef73"
+  },
+  "stock": 8,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:20:20.086Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:20:20.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff686d510e433214aefbd"
+  },
+  "name": "Men’s Dress Pants",
+  "slug": "men’s-dress-pants",
+  "description": "Elevate your wardrobe with these slim-fit classic pants, perfect for office or formal events. ✨ Features: Tailored fit, premium fabric, versatile for work or casual pairing.",
+  "price": 400,
+  "image": "http://localhost:3000/uploads/7b10b61bd021eb2c40e5d4f01f33ceea",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ff44dd510e433214aef73"
+  },
+  "stock": 8,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:25:10.489Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:25:10.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff6acd510e433214aefc7"
+  },
+  "name": "Men’s Tailored Chinos",
+  "slug": "men’s-tailored-chinos",
+  "description": "Elevate your wardrobe with these slim-fit classic pants, perfect for office or formal events. ✨ Features: Tailored fit, premium fabric, versatile for work or casual pairing.",
+  "price": 800,
+  "image": "http://localhost:3000/uploads/c9323cf46f250f1eefe6386404db89ca",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ff44dd510e433214aef73"
+  },
+  "stock": 5,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:25:48.709Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:25:48.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff762d510e433214aefe3"
+  },
+  "name": "Women’s Summer Casual Dress",
+  "slug": "women’s-summer-casual-dress",
+  "description": "Stay comfortable and stylish this summer with this lightweight casual dress. Perfect for daily outings or brunch. ✨ Features: Breathable fabric, relaxed fit, easy to pair with sandals or sneakers.",
+  "price": 800,
+  "image": "http://localhost:3000/uploads/5eeed95185ed4ccdac82abf852c66122",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ff4f3d510e433214aef84"
+  },
+  "stock": 6,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:28:50.893Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:28:50.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff782d510e433214aefed"
+  },
+  "name": "Women’s Everyday Casual Dress",
+  "slug": "women’s-everyday-casual-dress",
+  "description": "Stay comfortable and stylish this summer with this lightweight casual dress. Perfect for daily outings or brunch. ✨ Features: Breathable fabric, relaxed fit, easy to pair with sandals or sneakers.",
+  "price": 600,
+  "image": "http://localhost:3000/uploads/bba5320daaa971728af4450a2874b6ac",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ff4f3d510e433214aef84"
+  },
+  "stock": 7,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:29:22.013Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:25:57.394Z"
+  },
+  "__v": 0,
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "695ff7a8d510e433214aeff7"
+  },
+  "name": "Women’s Stylish Printed Dress",
+  "slug": "women’s-stylish-printed-dress",
+  "description": "Add a pop of pattern to your wardrobe with this trendy printed dress. Perfect for casual meet-ups or evening strolls. ✨ Features: Vibrant prints, comfortable fit, easy to accessorize.",
+  "price": 700,
+  "image": "http://localhost:3000/uploads/e972a4e53101f7a0d8b0bd029cbdb823",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ff4f3d510e433214aef84"
+  },
+  "stock": 3,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:30:00.433Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T11:25:10.628Z"
+  },
+  "__v": 0,
+  "soldCount": 5
+},
+{
+  "_id": {
+    "$oid": "695ff809d510e433214af001"
+  },
+  "name": "Women’s Relaxed Fit Dress",
+  "slug": "women’s-relaxed-fit-dress",
+  "description": "Stay comfortable and stylish this summer with this lightweight casual dress. Perfect for daily outings or brunch. ✨ Features: Breathable fabric, relaxed fit, easy to pair with sandals or sneakers.",
+  "price": 450,
+  "image": "http://localhost:3000/uploads/88da4bede4f53c1b7114a9c6873a5ef2",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ff4f3d510e433214aef84"
+  },
+  "stock": 0,
+  "ratingsAverage": 4,
+  "isActive": false,
+  "isDeleted": false,
+  "reviews": [
+    {
+      "user": "Lele",
+      "comment": "beautiful",
+      "rating": 5,
+      "_id": {
+        "$oid": "6977805589ae980405b072fd"
+      },
+      "date": {
+        "$date": "2026-01-26T14:55:17.774Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-01-08T18:31:37.741Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:25:57.403Z"
+  },
+  "__v": 1,
+  "soldCount": 7
+},
+{
+  "_id": {
+    "$oid": "695ffafbd510e433214af0bc"
+  },
+  "name": "Men’s Classic Formal Shirt",
+  "slug": "men’s-classic-formal-shirt",
+  "description": "A timeless formal shirt that’s perfect for office, meetings, or formal events. Combines style and comfort effortlessly. ✨ Features: Crisp collar, breathable fabric, tailored fit for a sharp look.",
+  "price": 500,
+  "image": "http://localhost:3000/uploads/5122412d939bad1226e3aef29f0f07ab",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffa83d510e433214af09e"
+  },
+  "stock": 8,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:44:11.219Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:44:11.219Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffb1ad510e433214af0c6"
+  },
+  "name": "Men’s Classic Button-Up Shirt",
+  "slug": "men’s-classic-button-up-shirt",
+  "description": "A timeless formal shirt that’s perfect for office, meetings, or formal events. Combines style and comfort effortlessly. ✨ Features: Crisp collar, breathable fabric, tailored fit for a sharp look.",
+  "price": 690,
+  "image": "http://localhost:3000/uploads/8f3fc87e4631e9652dc754a423022c7a",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffa83d510e433214af09e"
+  },
+  "stock": 9,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:44:42.216Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:46:15.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffb36d510e433214af0d0"
+  },
+  "name": "Men’s Slim Fit Classic Shirt",
+  "slug": "men’s-slim-fit-classic-shirt",
+  "description": "A timeless formal shirt that’s perfect for office, meetings, or formal events. Combines style and comfort effortlessly. ✨ Features: Crisp collar, breathable fabric, tailored fit for a sharp look.",
+  "price": 450,
+  "image": "http://localhost:3000/uploads/562bdb433662df9400b2c42ac3ca6536",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffa83d510e433214af09e"
+  },
+  "stock": 7,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:45:10.787Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:45:10.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffb5ed510e433214af0da"
+  },
+  "name": "Men’s Dress Classic Shirt",
+  "slug": "men’s-dress-classic-shirt",
+  "description": "A timeless formal shirt that’s perfect for office, meetings, or formal events. Combines style and comfort effortlessly. ✨ Features: Crisp collar, breathable fabric, tailored fit for a sharp look.",
+  "price": 370,
+  "image": "http://localhost:3000/uploads/65904ee39d05eff8c5cf2162a2bb9c1d",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffa83d510e433214af09e"
+  },
+  "stock": 8,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:45:50.674Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:45:50.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffbcbd510e433214af0f7"
+  },
+  "name": "Women’s Elegant Evening Gown",
+  "slug": "women’s-elegant-evening-gown",
+  "description": "Shine at any formal event with this elegant evening gown. Perfect for weddings, parties, or special occasions. ✨ Features: Flowing fabric, flattering silhouette, sophisticated design for a stunning look.",
+  "price": 560,
+  "image": "http://localhost:3000/uploads/2fc4ddcd4d6cc70703d05f26de881cae",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffab1d510e433214af0a5"
+  },
+  "stock": 1,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:47:39.385Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T20:34:04.950Z"
+  },
+  "__v": 0,
+  "soldCount": 6
+},
+{
+  "_id": {
+    "$oid": "695ffbf5d510e433214af101"
+  },
+  "name": "Women’s Glamorous Cocktail Dress",
+  "slug": "women’s-glamorous-cocktail-dress",
+  "description": "Shine at any formal event with this elegant evening gown. Perfect for weddings, parties, or special occasions. ✨ Features: Flowing fabric, flattering silhouette, sophisticated design for a stunning look.",
+  "price": 470,
+  "image": "http://localhost:3000/uploads/4a3070982fc1caabb4e3192d0cbc608e",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffab1d510e433214af0a5"
+  },
+  "stock": 7,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:48:21.628Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:25:57.368Z"
+  },
+  "__v": 0,
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "695ffc11d510e433214af10b"
+  },
+  "name": "Women’s Classic Long Evening Dress",
+  "slug": "women’s-classic-long-evening-dress",
+  "description": "Shine at any formal event with this elegant evening gown. Perfect for weddings, parties, or special occasions. ✨ Features: Flowing fabric, flattering silhouette, sophisticated design for a stunning look.",
+  "price": 780,
+  "image": "http://localhost:3000/uploads/2c48103e485fdfdcbd7d6029abda378d",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffab1d510e433214af0a5"
+  },
+  "stock": 7,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:48:49.419Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:25:57.411Z"
+  },
+  "__v": 0,
+  "soldCount": 1
+},
+{
+  "_id": {
+    "$oid": "695ffc2cd510e433214af115"
+  },
+  "name": "Women’s Stylish Lace Evening Dress",
+  "slug": "women’s-stylish-lace-evening-dress",
+  "description": "Shine at any formal event with this elegant evening gown. Perfect for weddings, parties, or special occasions. ✨ Features: Flowing fabric, flattering silhouette, sophisticated design for a stunning look.",
+  "price": 600,
+  "image": "http://localhost:3000/uploads/634064c0450d391d7b4a3d6dfe297693",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffab1d510e433214af0a5"
+  },
+  "stock": 1,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:49:16.106Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-26T15:07:58.138Z"
+  },
+  "__v": 0,
+  "soldCount": 4
+},
+{
+  "_id": {
+    "$oid": "695ffe27d510e433214af14a"
+  },
+  "name": "Men’s Classic Bomber Jacket",
+  "slug": "men’s-classic-bomber-jacket",
+  "description": "A versatile bomber jacket that adds style and comfort to your everyday look. Perfect for casual outings or evening wear. ✨ Features: Lightweight, soft lining, ribbed cuffs, easy to pair with jeans or trousers.",
+  "price": 790,
+  "image": "http://localhost:3000/uploads/64e43bb4393b935685853cdc42a61b4b",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffddcd510e433214af134"
+  },
+  "stock": 6,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:57:43.250Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:57:43.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffe43d510e433214af154"
+  },
+  "name": "Men’s Stylish Leather Jacket",
+  "slug": "men’s-stylish-leather-jacket",
+  "description": "A versatile bomber jacket that adds style and comfort to your everyday look. Perfect for casual outings or evening wear. ✨ Features: Lightweight, soft lining, ribbed cuffs, easy to pair with jeans or trousers.",
+  "price": 580,
+  "image": "http://localhost:3000/uploads/8f9d52fd1febf0be0a1f28464687c44a",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffddcd510e433214af134"
+  },
+  "stock": 8,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T18:58:11.066Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:58:11.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fff5ad510e433214af160"
+  },
+  "name": "Men’s Classic Blazer Jacket",
+  "slug": "men’s-classic-blazer-jacket",
+  "description": "A versatile bomber jacket that adds style and comfort to your everyday look. Perfect for casual outings or evening wear. ✨ Features: Lightweight, soft lining, ribbed cuffs, easy to pair with jeans or trousers.",
+  "price": 490,
+  "image": "http://localhost:3000/uploads/15c95b27da27287745178af308844ca3",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffddcd510e433214af134"
+  },
+  "stock": 7,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T19:02:50.129Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T19:03:55.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fff8ad510e433214af16a"
+  },
+  "name": "Men’s Modern Leather Jacket",
+  "slug": "men’s-modern-leather-jacket",
+  "description": "A versatile bomber jacket that adds style and comfort to your everyday look. Perfect for casual outings or evening wear. ✨ Features: Lightweight, soft lining, ribbed cuffs, easy to pair with jeans or trousers.",
+  "price": 430,
+  "image": "http://localhost:3000/uploads/b0cfa4de67f8e084d70fe8370a90366c",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "695ffddcd510e433214af134"
+  },
+  "stock": 9,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T19:03:38.879Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T19:03:38.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fffdcd510e433214af17b"
+  },
+  "name": "Women’s Elegant Blazer Jacket",
+  "slug": "women’s-elegant-blazer-jacket",
+  "description": "A chic blazer-style jacket perfect for office, meetings, or stylish evenings out. ✨ Features: Tailored fit, soft premium fabric, sharp lapels for a polished look.",
+  "price": 600,
+  "image": "http://localhost:3000/uploads/9c4aea472b526c0ed157dfa222eeeed1",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffddcd510e433214af134"
+  },
+  "stock": 5,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T19:05:00.081Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-26T14:50:00.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffffdd510e433214af187"
+  },
+  "name": "Women’s Casual Denim Jacket",
+  "slug": "women’s-casual-denim-jacket",
+  "description": "A chic blazer-style jacket perfect for office, meetings, or stylish evenings out. ✨ Features: Tailored fit, soft premium fabric, sharp lapels for a polished look.",
+  "price": 580,
+  "image": "http://localhost:3000/uploads/e64e53afcb06fe8954fa8ed566b46d5f",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffdf8d510e433214af13b"
+  },
+  "stock": 4,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T19:05:33.809Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T19:05:33.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6960001cd510e433214af191"
+  },
+  "name": "Women’s Chic Blazer Jacket",
+  "slug": "women’s-chic-blazer-jacket",
+  "description": "A chic blazer-style jacket perfect for office, meetings, or stylish evenings out. ✨ Features: Tailored fit, soft premium fabric, sharp lapels for a polished look.",
+  "price": 780,
+  "image": "http://localhost:3000/uploads/935cc3285b2455928a20b56bbd52b190",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffdf8d510e433214af13b"
+  },
+  "stock": 6,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T19:06:04.459Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T19:06:04.459Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6960006fd510e433214af19d"
+  },
+  "name": "Women’s Casual Jacket",
+  "slug": "women’s-casual-jacket",
+  "description": "A chic blazer-style jacket perfect for office, meetings, or stylish evenings out. ✨ Features: Tailored fit, soft premium fabric, sharp lapels for a polished look.",
+  "price": 800,
+  "image": "http://localhost:3000/uploads/7d1f9b7014e76f6c327c89405aa0b063",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "subcategory": {
+    "$oid": "695ffdf8d510e433214af13b"
+  },
+  "stock": 2,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-08T19:07:27.356Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:25:32.990Z"
+  },
+  "__v": 0,
+  "soldCount": 2
+},
+{
+  "_id": {
+    "$oid": "69610281638f96cbad156bef"
+  },
+  "name": "Men’s Classic Straight Jeans",
+  "slug": "men’s-classic-straight-jeans",
+  "description": "Timeless straight-leg jeans designed for everyday comfort and style. Perfect for casual and semi-casual looks. ✨ Features: Durable denim fabric, straight fit, easy to pair with shirts or t-shirts.",
+  "price": 500,
+  "image": "http://localhost:3000/uploads/4ebec38c9d064107f2469150109decdd",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "69610259638f96cbad156be2"
+  },
+  "stock": 6,
+  "ratingsAverage": 3,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-09T13:28:33.845Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T13:28:33.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696102ad638f96cbad156bf9"
+  },
+  "name": "Men’s Slim Fit Jeans",
+  "slug": "men’s-slim-fit-jeans",
+  "description": "Timeless straight-leg jeans designed for everyday comfort and style. Perfect for casual and semi-casual looks. ✨ Features: Durable denim fabric, straight fit, easy to pair with shirts or t-shirts.",
+  "price": 450,
+  "image": "http://localhost:3000/uploads/ce78642ddb1a33b4694f61e99b24e3cc",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "69610259638f96cbad156be2"
+  },
+  "stock": 3,
+  "ratingsAverage": 2,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-09T13:29:17.750Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T13:29:17.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696102d5638f96cbad156c03"
+  },
+  "name": "Men’s Relaxed Fit Jeans",
+  "slug": "men’s-relaxed-fit-jeans",
+  "description": "Timeless straight-leg jeans designed for everyday comfort and style. Perfect for casual and semi-casual looks. ✨ Features: Durable denim fabric, straight fit, easy to pair with shirts or t-shirts.",
+  "price": 700,
+  "image": "http://localhost:3000/uploads/020dfd8ede526f9e8c00bc21b4b42de2",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "69610259638f96cbad156be2"
+  },
+  "stock": 6,
+  "ratingsAverage": 4,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-09T13:29:57.007Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T13:29:57.007Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69610307638f96cbad156c0d"
+  },
+  "name": "Men’s Dark Wash Jeans",
+  "slug": "men’s-dark-wash-jeans",
+  "description": "Timeless straight-leg jeans designed for everyday comfort and style. Perfect for casual and semi-casual looks. ✨ Features: Durable denim fabric, straight fit, easy to pair with shirts or t-shirts.",
+  "price": 550,
+  "image": "http://localhost:3000/uploads/6db2e869ffdf46e6770c7884712e40eb",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "69610259638f96cbad156be2"
+  },
+  "stock": 8,
+  "ratingsAverage": 5,
+  "isActive": true,
+  "isDeleted": false,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-09T13:30:47.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T13:30:47.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d7d987ba72aff357ee512"
+  },
+  "name": "Classic Elegance Suit",
+  "slug": "classic-elegance-suit",
+  "description": "ارتقِ بإطلالتك مع بدلة Classic Elegance المصممة خصيصًا لتجمع بين الفخامة والراحة. مصنوعة من قماش عالي الجودة يمنحك ملمسًا ناعمًا ومظهرًا أنيقًا طوال اليوم.",
+  "price": 1000,
+  "soldCount": 0,
+  "image": "http://localhost:3000/uploads/1768783256458.jpeg",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "subcategory": {
+    "$oid": "6949961088592a505b39595f"
+  },
+  "stock": 5,
+  "ratingsAverage": 1,
+  "isActive": true,
+  "isDeleted": true,
+  "reviews": [],
+  "createdAt": {
+    "$date": "2026-01-19T00:40:56.465Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-19T00:43:27.619Z"
+  },
+  "__v": 0
+}]

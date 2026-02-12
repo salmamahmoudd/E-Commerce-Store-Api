@@ -1,0 +1,2314 @@
+[{
+  "_id": {
+    "$oid": "695c079a3985f5989355dc1e"
+  },
+  "userId": "6958302cc688fe18fead19f3",
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "_id": {
+        "$oid": "695c079a3985f5989355dc1f"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "_id": {
+        "$oid": "695c079a3985f5989355dc20"
+      }
+    }
+  ],
+  "total": 20,
+  "status": "cancelled_by_admin",
+  "createdAt": {
+    "$date": "2026-01-05T18:48:58.529Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:56:25.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695c15ac8def84265b1d8b99"
+  },
+  "userId": "6958302cc688fe18fead19f3",
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695c15ac8def84265b1d8b9a"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695c15ac8def84265b1d8b9b"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695c15ac8def84265b1d8b9c"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfa5683be84a5b76d5171"
+      },
+      "name": "jacket 3",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/527430318b8a38a1c0a791701a5f5988",
+      "_id": {
+        "$oid": "695c15ac8def84265b1d8b9d"
+      }
+    }
+  ],
+  "total": 40,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-01-05T19:49:00.360Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-05T19:49:00.360Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695c165b8def84265b1d8bfa"
+  },
+  "userId": "6958302cc688fe18fead19f3",
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695c165b8def84265b1d8bfb"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695c165b8def84265b1d8bfc"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695c165b8def84265b1d8bfd"
+      }
+    }
+  ],
+  "total": 30,
+  "status": "cancelled_by_admin",
+  "createdAt": {
+    "$date": "2026-01-05T19:51:55.666Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:56:19.343Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695cee50d3e8ddd2b583e256"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695cee50d3e8ddd2b583e257"
+      }
+    }
+  ],
+  "total": 10,
+  "createdAt": {
+    "$date": "2026-01-06T11:13:20.628Z"
+  },
+  "__v": 0,
+  "status": "cash-paid",
+  "updatedAt": {
+    "$date": "2026-01-07T15:11:52.096Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695cf8b89110612fb35b2689"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695cf8b89110612fb35b268a"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695cf8b89110612fb35b268b"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695cf8b89110612fb35b268c"
+      }
+    }
+  ],
+  "total": 30,
+  "createdAt": {
+    "$date": "2026-01-06T11:57:44.900Z"
+  },
+  "__v": 0,
+  "status": "cash-paid",
+  "updatedAt": {
+    "$date": "2026-01-06T13:33:30.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695cf9e59110612fb35b26ac"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695cf9e59110612fb35b26ad"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695cf9e59110612fb35b26ae"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "69513f59842a7e81dbf20d62"
+      },
+      "name": "love",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/0b432fa1cbc607a8c279305e8424ed92",
+      "_id": {
+        "$oid": "695cf9e59110612fb35b26af"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6951278b17f702ae6b1d7fb0"
+      },
+      "name": "t-sh",
+      "price": 800,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/142be991259d3f2bf3410cac7555c378",
+      "_id": {
+        "$oid": "695cf9e59110612fb35b26b0"
+      }
+    }
+  ],
+  "total": 830,
+  "createdAt": {
+    "$date": "2026-01-06T12:02:45.643Z"
+  },
+  "__v": 0,
+  "status": "cash-paid",
+  "updatedAt": {
+    "$date": "2026-01-06T13:32:08.393Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "695cfa749110612fb35b26e0"
+  },
+  "userId": {
+    "$oid": "695972c43e910f036ae3ce4d"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695cfa749110612fb35b26e1"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695cfa749110612fb35b26e2"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695cfa749110612fb35b26e3"
+      }
+    }
+  ],
+  "total": 30,
+  "createdAt": {
+    "$date": "2026-01-06T12:05:08.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d03e69e4445104ec0df67"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695d03e69e4445104ec0df68"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695d03e69e4445104ec0df69"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695d03e69e4445104ec0df6a"
+      }
+    }
+  ],
+  "total": 30,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T12:45:26.098Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T13:31:55.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d0a8d696d8d7780b0e9c7"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "69513f90842a7e81dbf20d68"
+      },
+      "name": "jk",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/68bd2a2dc531f50a9ef184ddfe2baf84",
+      "_id": {
+        "$oid": "695d0a8d696d8d7780b0e9c8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695837c600846d351b0aedf1"
+      },
+      "name": "Test Product",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/4210b7c0b521d9872e16da76db0d8157",
+      "_id": {
+        "$oid": "695d0a8d696d8d7780b0e9c9"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695940659e0ccfb0d40f9bcb"
+      },
+      "name": "YELLOW",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2beef1b5012578c0bca11e9eac65cd56",
+      "_id": {
+        "$oid": "695d0a8d696d8d7780b0e9ca"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695971273e910f036ae3cde7"
+      },
+      "name": "red",
+      "price": 1000,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/76f7d7ac85d85870702222937bcf3c7b",
+      "_id": {
+        "$oid": "695d0a8d696d8d7780b0e9cb"
+      }
+    }
+  ],
+  "total": 1030,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T13:13:49.635Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T13:28:56.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d595a52868ab89048dad1"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695d595a52868ab89048dad2"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695d595a52868ab89048dad3"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695d595a52868ab89048dad4"
+      }
+    }
+  ],
+  "total": 30,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T18:50:02.611Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T18:50:18.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d708c52868ab89048de40"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695d708c52868ab89048de41"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695d708c52868ab89048de42"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695d708c52868ab89048de43"
+      }
+    }
+  ],
+  "total": 30,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T20:29:00.666Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-07T15:11:47.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d808752868ab89048e138"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695d808752868ab89048e139"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695d808752868ab89048e13a"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695d808752868ab89048e13b"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfa5683be84a5b76d5171"
+      },
+      "name": "jacket 3",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/527430318b8a38a1c0a791701a5f5988",
+      "_id": {
+        "$oid": "695d808752868ab89048e13c"
+      }
+    }
+  ],
+  "total": 40,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T21:37:11.360Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-07T15:11:44.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d85a152868ab89048e1f4"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8496cc638d968075407dea5f4a014cc3",
+      "_id": {
+        "$oid": "695d85a152868ab89048e1f5"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695d85a152868ab89048e1f6"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695d85a152868ab89048e1f7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695971273e910f036ae3cde7"
+      },
+      "name": "red",
+      "price": 1000,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/76f7d7ac85d85870702222937bcf3c7b",
+      "_id": {
+        "$oid": "695d85a152868ab89048e1f8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695940659e0ccfb0d40f9bcb"
+      },
+      "name": "YELLOW",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2beef1b5012578c0bca11e9eac65cd56",
+      "_id": {
+        "$oid": "695d85a152868ab89048e1f9"
+      }
+    }
+  ],
+  "total": 1040,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T21:58:57.561Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-07T15:11:41.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d8bb552868ab89048e36b"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/94424d099c99c8a01a5ff6b8ec6ba77e",
+      "_id": {
+        "$oid": "695d8bb552868ab89048e36c"
+      }
+    }
+  ],
+  "total": 10,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T22:24:53.915Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T22:49:44.208Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d8fb252868ab89048e4ca"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/94424d099c99c8a01a5ff6b8ec6ba77e",
+      "_id": {
+        "$oid": "695d8fb252868ab89048e4cb"
+      }
+    }
+  ],
+  "total": 10,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T22:41:54.659Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T22:45:54.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695d907e52868ab89048e525"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695d907e52868ab89048e526"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfa5683be84a5b76d5171"
+      },
+      "name": "jacket 3",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/527430318b8a38a1c0a791701a5f5988",
+      "_id": {
+        "$oid": "695d907e52868ab89048e527"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/94424d099c99c8a01a5ff6b8ec6ba77e",
+      "_id": {
+        "$oid": "695d907e52868ab89048e528"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695d907e52868ab89048e529"
+      }
+    }
+  ],
+  "total": 40,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-06T22:45:18.209Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-06T22:45:52.070Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695e7863540c450b715df302"
+  },
+  "userId": {
+    "$oid": "695d426952868ab89048d81a"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695e7863540c450b715df303"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695e7863540c450b715df304"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/94424d099c99c8a01a5ff6b8ec6ba77e",
+      "_id": {
+        "$oid": "695e7863540c450b715df305"
+      }
+    }
+  ],
+  "total": 30,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-07T15:14:43.881Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-07T15:14:56.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695e8dbb540c450b715df4e9"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695e8dbb540c450b715df4ea"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 2,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695e8dbb540c450b715df4eb"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "694bfb8c1ac5d3753c2f49fa"
+      },
+      "name": "jacket 7",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/94424d099c99c8a01a5ff6b8ec6ba77e",
+      "_id": {
+        "$oid": "695e8dbb540c450b715df4ec"
+      }
+    }
+  ],
+  "total": 40,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-07T16:45:47.826Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T14:47:17.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fc3820ff42fa3d0b22e38"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "jacket 8",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/606b6f3c77571a80be23e7e2d4fd2826",
+      "_id": {
+        "$oid": "695fc3820ff42fa3d0b22e39"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "jacket 9",
+      "price": 10,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/ab527027c8f9e3bda7fd1dc70310ee13",
+      "_id": {
+        "$oid": "695fc3820ff42fa3d0b22e3a"
+      }
+    }
+  ],
+  "total": 20,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-08T14:47:30.684Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T14:47:47.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff886d510e433214af05c"
+  },
+  "userId": {
+    "$oid": "695963dbe36ca894c9b20def"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff249d510e433214aef36"
+      },
+      "name": "Women’s Elegant Blouse",
+      "price": 500,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/566a8c135117dd8ca6dba12b3ee251e8",
+      "_id": {
+        "$oid": "695ff886d510e433214af05d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff26ed510e433214aef40"
+      },
+      "name": "Women’s Casual Chic Blouse",
+      "price": 480,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/b7b77ca52df3f6c6985730dda92774e5",
+      "_id": {
+        "$oid": "695ff886d510e433214af05e"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff290d510e433214aef4a"
+      },
+      "name": "Women’s Stylish Printed Blouse",
+      "price": 700,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8ac555140d18a0a1fa9ee20b0c8588c9",
+      "_id": {
+        "$oid": "695ff886d510e433214af05f"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff7a8d510e433214aeff7"
+      },
+      "name": "Women’s Stylish Printed Dress",
+      "price": 700,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/e972a4e53101f7a0d8b0bd029cbdb823",
+      "_id": {
+        "$oid": "695ff886d510e433214af060"
+      }
+    }
+  ],
+  "total": 2380,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-08T18:33:42.131Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:33:53.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696001f3d510e433214af1f5"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ffc11d510e433214af10b"
+      },
+      "name": "Women’s Classic Long Evening Dress",
+      "price": 780,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2c48103e485fdfdcbd7d6029abda378d",
+      "_id": {
+        "$oid": "696001f3d510e433214af1f6"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ffbf5d510e433214af101"
+      },
+      "name": "Women’s Glamorous Cocktail Dress",
+      "price": 470,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/4a3070982fc1caabb4e3192d0cbc608e",
+      "_id": {
+        "$oid": "696001f3d510e433214af1f7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff782d510e433214aefed"
+      },
+      "name": "Women’s Everyday Casual Dress",
+      "price": 600,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/bba5320daaa971728af4450a2874b6ac",
+      "_id": {
+        "$oid": "696001f3d510e433214af1f8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff7a8d510e433214aeff7"
+      },
+      "name": "Women’s Stylish Printed Dress",
+      "price": 700,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/e972a4e53101f7a0d8b0bd029cbdb823",
+      "_id": {
+        "$oid": "696001f3d510e433214af1f9"
+      }
+    }
+  ],
+  "total": 2550,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-08T19:13:55.793Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T13:42:59.305Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696105d6638f96cbad156c38"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695940659e0ccfb0d40f9bcb"
+      },
+      "name": "Women’s Modern Fit Blazer",
+      "price": 370,
+      "quantity": 3,
+      "image": "http://localhost:3000/uploads/4ec2c5b73f38ec0fab2e5217611ba75e",
+      "_id": {
+        "$oid": "696105d6638f96cbad156c39"
+      }
+    }
+  ],
+  "total": 1110,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-09T13:42:46.956Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T17:01:57.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69610ed1638f96cbad156d5f"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff290d510e433214aef4a"
+      },
+      "name": "Women’s Stylish Printed Blouse",
+      "price": 700,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8ac555140d18a0a1fa9ee20b0c8588c9",
+      "_id": {
+        "$oid": "69610ed1638f96cbad156d60"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff26ed510e433214aef40"
+      },
+      "name": "Women’s Casual Chic Blouse",
+      "price": 480,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/b7b77ca52df3f6c6985730dda92774e5",
+      "_id": {
+        "$oid": "69610ed1638f96cbad156d61"
+      }
+    }
+  ],
+  "total": 1180,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-09T14:21:05.561Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T17:01:58.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69611079638f96cbad156d95"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "694bfa5683be84a5b76d5171"
+      },
+      "name": "Men’s Classic Blazer",
+      "price": 400,
+      "quantity": 5,
+      "image": "http://localhost:3000/uploads/da82b0bd09fd78225c23b538e6b36cae",
+      "_id": {
+        "$oid": "69611079638f96cbad156d96"
+      }
+    }
+  ],
+  "total": 2000,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2026-01-09T14:28:09.139Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T14:28:09.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696bc06c62bd5f5cd5e30ac1"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695971273e910f036ae3cde7"
+      },
+      "name": "Women’s Classic Blazer Jacket",
+      "price": 1000,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/9d95c866a1f898f4803d4359a0b6a3fa",
+      "_id": {
+        "$oid": "696bc06c62bd5f5cd5e30ac2"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "69513f90842a7e81dbf20d68"
+      },
+      "name": "Women’s Chic Blazer",
+      "price": 600,
+      "quantity": 2,
+      "image": "http://localhost:3000/uploads/b4abc43bc4758b249c383e656624b0e7",
+      "_id": {
+        "$oid": "696bc06c62bd5f5cd5e30ac3"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695121b415b7dec6d2ef811d"
+      },
+      "name": "Men’s Formal Style Blazer",
+      "price": 500,
+      "quantity": 2,
+      "image": "http://localhost:3000/uploads/065bd69592059e96ee6ae6c03d9118dd",
+      "_id": {
+        "$oid": "696bc06c62bd5f5cd5e30ac4"
+      }
+    }
+  ],
+  "total": 3200,
+  "status": "cash-paid",
+  "customerName": "Salma Mahmoud Ahmed",
+  "address": "Helwan",
+  "phone": "01158538593",
+  "createdAt": {
+    "$date": "2026-01-17T17:01:32.581Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T20:20:04.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696beb29275347d507685908"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695940659e0ccfb0d40f9bcb"
+      },
+      "name": "Women’s Modern Fit Blazer",
+      "price": 370,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/4ec2c5b73f38ec0fab2e5217611ba75e",
+      "_id": {
+        "$oid": "696beb29275347d507685909"
+      }
+    }
+  ],
+  "total": 370,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-17T20:03:53.078Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T20:20:14.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696bebae275347d507685965"
+  },
+  "userId": {
+    "$oid": "696be392d0d1fa68a34a7946"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695940659e0ccfb0d40f9bcb"
+      },
+      "name": "Women’s Modern Fit Blazer",
+      "price": 370,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/4ec2c5b73f38ec0fab2e5217611ba75e",
+      "_id": {
+        "$oid": "696bebae275347d507685966"
+      }
+    }
+  ],
+  "total": 370,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-17T20:06:06.361Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T20:21:11.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696bec99c851ff84e3f48b10"
+  },
+  "userId": {
+    "$oid": "696be392d0d1fa68a34a7946"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695940659e0ccfb0d40f9bcb"
+      },
+      "name": "Women’s Modern Fit Blazer",
+      "price": 370,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/4ec2c5b73f38ec0fab2e5217611ba75e",
+      "_id": {
+        "$oid": "696bec99c851ff84e3f48b11"
+      }
+    }
+  ],
+  "total": 370,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-17T20:10:01.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T20:21:12.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696bed1ec851ff84e3f48b3c"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ffbcbd510e433214af0f7"
+      },
+      "name": "Women’s Elegant Evening Gown",
+      "price": 560,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2fc4ddcd4d6cc70703d05f26de881cae",
+      "_id": {
+        "$oid": "696bed1ec851ff84e3f48b3d"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff809d510e433214af001"
+      },
+      "name": "Women’s Relaxed Fit Dress",
+      "price": 450,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/88da4bede4f53c1b7114a9c6873a5ef2",
+      "_id": {
+        "$oid": "696bed1ec851ff84e3f48b3e"
+      }
+    }
+  ],
+  "total": 1010,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-17T20:12:14.138Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T20:20:18.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696beee0efb083398738ce4a"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ffbcbd510e433214af0f7"
+      },
+      "name": "Women’s Elegant Evening Gown",
+      "price": 560,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2fc4ddcd4d6cc70703d05f26de881cae",
+      "_id": {
+        "$oid": "696beee0efb083398738ce4b"
+      }
+    }
+  ],
+  "total": 560,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-17T20:19:44.316Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T20:19:52.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696bef2eefb083398738ceb9"
+  },
+  "userId": {
+    "$oid": "696be392d0d1fa68a34a7946"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff809d510e433214af001"
+      },
+      "name": "Women’s Relaxed Fit Dress",
+      "price": 450,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/88da4bede4f53c1b7114a9c6873a5ef2",
+      "_id": {
+        "$oid": "696bef2eefb083398738ceba"
+      }
+    }
+  ],
+  "total": 450,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-17T20:21:02.277Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-17T20:21:14.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d22b3476bf3c2f5f82fb0"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff2afd510e433214aef54"
+      },
+      "name": "Women’s Classic Button-Up Blouse",
+      "price": 390,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2a9a9a86beb56cd9b95d5e42f3c3c527",
+      "_id": {
+        "$oid": "696d22b3476bf3c2f5f82fb1"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ffc2cd510e433214af115"
+      },
+      "name": "Women’s Stylish Lace Evening Dress",
+      "price": 600,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/634064c0450d391d7b4a3d6dfe297693",
+      "_id": {
+        "$oid": "696d22b3476bf3c2f5f82fb2"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "6960006fd510e433214af19d"
+      },
+      "name": "Women’s Casual Jacket",
+      "price": 800,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/7d1f9b7014e76f6c327c89405aa0b063",
+      "_id": {
+        "$oid": "696d22b3476bf3c2f5f82fb3"
+      }
+    }
+  ],
+  "total": 1790,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-18T18:13:07.649Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T18:13:31.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d37ec915b7bd632f93f9c"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ffbcbd510e433214af0f7"
+      },
+      "name": "Women’s Elegant Evening Gown",
+      "price": 560,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2fc4ddcd4d6cc70703d05f26de881cae",
+      "_id": {
+        "$oid": "696d37ec915b7bd632f93f9d"
+      }
+    }
+  ],
+  "total": 560,
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-18T19:43:40.496Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T19:43:56.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d3d366a6aae000cfc3de0"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695940659e0ccfb0d40f9bcb"
+      },
+      "name": "Women’s Modern Fit Blazer",
+      "price": 370,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/4ec2c5b73f38ec0fab2e5217611ba75e",
+      "_id": {
+        "$oid": "696d3d366a6aae000cfc3de1"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ffbcbd510e433214af0f7"
+      },
+      "name": "Women’s Elegant Evening Gown",
+      "price": 560,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2fc4ddcd4d6cc70703d05f26de881cae",
+      "_id": {
+        "$oid": "696d3d366a6aae000cfc3de2"
+      }
+    }
+  ],
+  "total": 930,
+  "address": "Helwan",
+  "status": "cancelled_by_user",
+  "createdAt": {
+    "$date": "2026-01-18T20:06:14.819Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:06:32.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d41bc6a6aae000cfc3f57"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "6960006fd510e433214af19d"
+      },
+      "name": "Women’s Casual Jacket",
+      "price": 800,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/7d1f9b7014e76f6c327c89405aa0b063",
+      "_id": {
+        "$oid": "696d41bc6a6aae000cfc3f58"
+      }
+    }
+  ],
+  "total": 800,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-18T20:25:33.002Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T20:25:59.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d4edc9e23cb8f85a934a1"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ffbcbd510e433214af0f7"
+      },
+      "name": "Women’s Elegant Evening Gown",
+      "price": 560,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2fc4ddcd4d6cc70703d05f26de881cae",
+      "_id": {
+        "$oid": "696d4edc9e23cb8f85a934a2"
+      }
+    }
+  ],
+  "total": 560,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-18T21:21:32.039Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T21:21:42.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d529ff44c216fcc155a01"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff7a8d510e433214aeff7"
+      },
+      "name": "Women’s Stylish Printed Dress",
+      "price": 700,
+      "quantity": 2,
+      "image": "http://localhost:3000/uploads/e972a4e53101f7a0d8b0bd029cbdb823",
+      "_id": {
+        "$oid": "696d529ff44c216fcc155a02"
+      }
+    }
+  ],
+  "total": 1400,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-18T21:37:35.632Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T13:57:18.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d534cf44c216fcc155ad8"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695971273e910f036ae3cde7"
+      },
+      "name": "Women’s Classic Blazer Jacket",
+      "price": 1500,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/9d95c866a1f898f4803d4359a0b6a3fa",
+      "_id": {
+        "$oid": "696d534cf44c216fcc155ad9"
+      }
+    }
+  ],
+  "total": 1500,
+  "address": "Helwan",
+  "status": "cancelled_by_user",
+  "createdAt": {
+    "$date": "2026-01-18T21:40:28.355Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T13:57:22.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d8a5b547609a1399b4766"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff809d510e433214af001"
+      },
+      "name": "Women’s Relaxed Fit Dress",
+      "price": 450,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/88da4bede4f53c1b7114a9c6873a5ef2",
+      "_id": {
+        "$oid": "696d8a5b547609a1399b4767"
+      }
+    }
+  ],
+  "total": 450,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-19T01:35:23.192Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T13:57:24.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6970db142752e4330ebc3daf"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff7a8d510e433214aeff7"
+      },
+      "name": "Women’s Stylish Printed Dress",
+      "price": 700,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/e972a4e53101f7a0d8b0bd029cbdb823",
+      "_id": {
+        "$oid": "6970db142752e4330ebc3db0"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ffc2cd510e433214af115"
+      },
+      "name": "Women’s Stylish Lace Evening Dress",
+      "price": 600,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/634064c0450d391d7b4a3d6dfe297693",
+      "_id": {
+        "$oid": "6970db142752e4330ebc3db1"
+      }
+    }
+  ],
+  "total": 1300,
+  "address": "Helwan",
+  "status": "cancelled_by_admin",
+  "createdAt": {
+    "$date": "2026-01-21T13:56:36.370Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T13:59:46.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6971383cec29c37ce05f801b"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff809d510e433214af001"
+      },
+      "name": "Women’s Relaxed Fit Dress",
+      "price": 450,
+      "quantity": 2,
+      "image": "http://localhost:3000/uploads/88da4bede4f53c1b7114a9c6873a5ef2",
+      "_id": {
+        "$oid": "6971383cec29c37ce05f801c"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ffbcbd510e433214af0f7"
+      },
+      "name": "Women’s Elegant Evening Gown",
+      "price": 560,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2fc4ddcd4d6cc70703d05f26de881cae",
+      "_id": {
+        "$oid": "6971383cec29c37ce05f801d"
+      }
+    }
+  ],
+  "total": 1460,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-21T20:34:04.955Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T21:01:26.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6971394aec29c37ce05f80db"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695971273e910f036ae3cde7"
+      },
+      "name": "Women’s Classic Blazer Jacket",
+      "price": 1500,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/9d95c866a1f898f4803d4359a0b6a3fa",
+      "_id": {
+        "$oid": "6971394aec29c37ce05f80dc"
+      }
+    }
+  ],
+  "total": 1500,
+  "address": "Helwan",
+  "status": "cancelled_by_admin",
+  "createdAt": {
+    "$date": "2026-01-21T20:38:34.584Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T21:20:34.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69715c9aec29c37ce05f8824"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff7a8d510e433214aeff7"
+      },
+      "name": "Women’s Stylish Printed Dress",
+      "price": 700,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/e972a4e53101f7a0d8b0bd029cbdb823",
+      "_id": {
+        "$oid": "69715c9aec29c37ce05f8825"
+      }
+    }
+  ],
+  "total": 700,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-21T23:09:14.605Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-21T23:14:49.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "697209167f74838d43790ba7"
+  },
+  "userId": {
+    "$oid": "697208257f74838d43790b4e"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff7a8d510e433214aeff7"
+      },
+      "name": "Women’s Stylish Printed Dress",
+      "price": 700,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/e972a4e53101f7a0d8b0bd029cbdb823",
+      "_id": {
+        "$oid": "697209167f74838d43790ba8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ffc2cd510e433214af115"
+      },
+      "name": "Women’s Stylish Lace Evening Dress",
+      "price": 600,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/634064c0450d391d7b4a3d6dfe297693",
+      "_id": {
+        "$oid": "697209167f74838d43790ba9"
+      }
+    }
+  ],
+  "total": 1300,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-22T11:25:10.647Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-22T11:25:17.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6973bae1c6e676fba6257bbc"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "69513f90842a7e81dbf20d68"
+      },
+      "name": "Women’s Chic Blazer",
+      "price": 800,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/b4abc43bc4758b249c383e656624b0e7",
+      "_id": {
+        "$oid": "6973bae1c6e676fba6257bbd"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695971273e910f036ae3cde7"
+      },
+      "name": "Women’s Classic Blazer Jacket",
+      "price": 1500,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/9d95c866a1f898f4803d4359a0b6a3fa",
+      "_id": {
+        "$oid": "6973bae1c6e676fba6257bbe"
+      }
+    }
+  ],
+  "total": 2300,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-23T18:16:01.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-23T18:16:46.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69777ff189ae980405b07235"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695971273e910f036ae3cde7"
+      },
+      "name": "Women’s Classic Blazer Jacket",
+      "price": 1500,
+      "quantity": 2,
+      "image": "http://localhost:3000/uploads/9d95c866a1f898f4803d4359a0b6a3fa",
+      "_id": {
+        "$oid": "69777ff189ae980405b07236"
+      }
+    }
+  ],
+  "total": 3000,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-26T14:53:37.937Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-26T14:54:06.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6977834e89ae980405b073c4"
+  },
+  "userId": {
+    "$oid": "697780d589ae980405b0732e"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ffc2cd510e433214af115"
+      },
+      "name": "Women’s Stylish Lace Evening Dress",
+      "price": 600,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/634064c0450d391d7b4a3d6dfe297693",
+      "_id": {
+        "$oid": "6977834e89ae980405b073c5"
+      }
+    }
+  ],
+  "total": 600,
+  "address": "Helwan - 15 May",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-26T15:07:58.148Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-26T15:08:07.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6978b92af665d1025735d21b"
+  },
+  "userId": {
+    "$oid": "6978b7c8f665d1025735d1dd"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ff809d510e433214af001"
+      },
+      "name": "Women’s Relaxed Fit Dress",
+      "price": 450,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/88da4bede4f53c1b7114a9c6873a5ef2",
+      "_id": {
+        "$oid": "6978b92af665d1025735d21c"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695123a817f702ae6b1d7f8e"
+      },
+      "name": "Men’s Modern Fit Blazer",
+      "price": 300,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/608152eed57366f382fada7b547c901b",
+      "_id": {
+        "$oid": "6978b92af665d1025735d21d"
+      }
+    }
+  ],
+  "total": 750,
+  "address": "darelsalam",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-27T13:10:02.860Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:10:53.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6978bce5f665d1025735d3eb"
+  },
+  "userId": {
+    "$oid": "6978baadf665d1025735d2c0"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "695ffbf5d510e433214af101"
+      },
+      "name": "Women’s Glamorous Cocktail Dress",
+      "price": 470,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/4a3070982fc1caabb4e3192d0cbc608e",
+      "_id": {
+        "$oid": "6978bce5f665d1025735d3ec"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff249d510e433214aef36"
+      },
+      "name": "Women’s Elegant Blouse",
+      "price": 500,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/566a8c135117dd8ca6dba12b3ee251e8",
+      "_id": {
+        "$oid": "6978bce5f665d1025735d3ed"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff782d510e433214aefed"
+      },
+      "name": "Women’s Everyday Casual Dress",
+      "price": 600,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/bba5320daaa971728af4450a2874b6ac",
+      "_id": {
+        "$oid": "6978bce5f665d1025735d3ee"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff809d510e433214af001"
+      },
+      "name": "Women’s Relaxed Fit Dress",
+      "price": 450,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/88da4bede4f53c1b7114a9c6873a5ef2",
+      "_id": {
+        "$oid": "6978bce5f665d1025735d3ef"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ffc11d510e433214af10b"
+      },
+      "name": "Women’s Classic Long Evening Dress",
+      "price": 780,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2c48103e485fdfdcbd7d6029abda378d",
+      "_id": {
+        "$oid": "6978bce5f665d1025735d3f0"
+      }
+    }
+  ],
+  "total": 2800,
+  "address": "maadi",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-01-27T13:25:57.419Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-27T13:26:18.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698350d1ebd0e3cc5c1889b5"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "69513f90842a7e81dbf20d68"
+      },
+      "name": "Women’s Chic Blazer",
+      "price": 800,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/b4abc43bc4758b249c383e656624b0e7",
+      "_id": {
+        "$oid": "698350d1ebd0e3cc5c1889b6"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695837c600846d351b0aedf1"
+      },
+      "name": "Women’s Elegant Tailored Blazer",
+      "price": 400,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/6f952955ab0dad525be4d84c2926b21a",
+      "_id": {
+        "$oid": "698350d1ebd0e3cc5c1889b7"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff26ed510e433214aef40"
+      },
+      "name": "Women’s Casual Chic Blouse",
+      "price": 480,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/b7b77ca52df3f6c6985730dda92774e5",
+      "_id": {
+        "$oid": "698350d1ebd0e3cc5c1889b8"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff290d510e433214aef4a"
+      },
+      "name": "Women’s Stylish Printed Blouse",
+      "price": 800,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/8ac555140d18a0a1fa9ee20b0c8588c9",
+      "_id": {
+        "$oid": "698350d1ebd0e3cc5c1889b9"
+      }
+    },
+    {
+      "productId": {
+        "$oid": "695ff2afd510e433214aef54"
+      },
+      "name": "Women’s Classic Button-Up Blouse",
+      "price": 390,
+      "quantity": 1,
+      "image": "http://localhost:3000/uploads/2a9a9a86beb56cd9b95d5e42f3c3c527",
+      "_id": {
+        "$oid": "698350d1ebd0e3cc5c1889ba"
+      }
+    }
+  ],
+  "total": 2870,
+  "address": "Helwan",
+  "status": "cash-paid",
+  "createdAt": {
+    "$date": "2026-02-04T13:59:45.884Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T14:00:14.213Z"
+  },
+  "__v": 0
+}]

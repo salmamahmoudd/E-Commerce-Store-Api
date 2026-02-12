@@ -1,0 +1,247 @@
+[{
+  "_id": {
+    "$oid": "694957ea0d777777cafd35bd"
+  },
+  "name": "jk",
+  "slug": "blazer",
+  "category": {
+    "$oid": "69487b168ad6d8c7cc952c54"
+  },
+  "image": "http://localhost:3000/uploads/2303741c44c3a277c64a8972b8e22882",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-22T14:38:34.486Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T19:56:58.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6949961088592a505b39595f"
+  },
+  "name": "blazers",
+  "slug": "jacket",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "image": "http://localhost:3000/uploads/54353e633cfa6d9fb4fab6965624e201",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-22T19:03:44.823Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T15:00:07.977Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fec6dd510e433214aedde"
+  },
+  "name": "blazers",
+  "slug": "blazers",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "image": "http://localhost:3000/uploads/e51661b644a0bbe66e890e8df900e15d",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T17:42:05.833Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:42:05.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695fee77d510e433214aeec0"
+  },
+  "name": "casual shirts",
+  "slug": "casual-shirts",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "image": "http://localhost:3000/uploads/da0aa464ecb055581647faea29c95d69",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T17:50:47.329Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:50:47.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695feec8d510e433214aeec7"
+  },
+  "name": "Blouses",
+  "slug": "blouses",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "image": "http://localhost:3000/uploads/34a593b51e1f2c347726ebf941843785",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T17:52:08.983Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T17:52:08.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff44dd510e433214aef73"
+  },
+  "name": "classic pants",
+  "slug": "classic-pants",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "image": "http://localhost:3000/uploads/b1d7af973def00888e5369489d6709de",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T18:15:41.364Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:17:42.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ff4f3d510e433214aef84"
+  },
+  "name": "casual dresses",
+  "slug": "casual-dresses",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "image": "http://localhost:3000/uploads/546092800a47fc50bc2b0c6623eaed70",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T18:18:27.501Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:18:27.501Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffa83d510e433214af09e"
+  },
+  "name": "classic shirts",
+  "slug": "classic-shirts",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "image": "http://localhost:3000/uploads/fee149c6ddd336fc968d1126dd2dc46d",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T18:42:11.823Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:42:11.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffab1d510e433214af0a5"
+  },
+  "name": "Evening dresses",
+  "slug": "evening-dresses",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "image": "http://localhost:3000/uploads/f191662e3ba3c2c70de71da90b93dc40",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T18:42:57.538Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:42:57.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffddcd510e433214af134"
+  },
+  "name": "Jackets",
+  "slug": "jackets",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "image": "http://localhost:3000/uploads/ecedf7080a683406a2a4fe8a975a0b30",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T18:56:28.688Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:56:28.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ffdf8d510e433214af13b"
+  },
+  "name": "Jackets",
+  "slug": "jackets",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "image": "http://localhost:3000/uploads/934d0ed1df6ce0598866901d656bb4aa",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-08T18:56:56.719Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T18:56:56.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69610259638f96cbad156be2"
+  },
+  "name": "jeans",
+  "slug": "jeans",
+  "category": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "image": "http://localhost:3000/uploads/b2d11bf4de94de5eae2d324661739463",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-09T13:27:53.569Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T13:27:53.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69611f58663902bffec62d88"
+  },
+  "name": "Formal Suits",
+  "slug": "formal-suits",
+  "category": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "image": "http://localhost:3000/uploads/1767972696964.jpeg",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2026-01-09T15:31:36.972Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T15:31:36.972Z"
+  },
+  "__v": 0
+}]

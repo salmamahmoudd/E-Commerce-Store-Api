@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "69486b8e3471364f43ac303b"
+  },
+  "name": "iphone 57",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69486bbd3471364f43ac3040"
+  },
+  "name": "samsung",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69487340a040be4ea4244d27"
+  },
+  "name": "T-Shirts",
+  "slug": "t-shirts",
+  "image": "https://example.com/tshirt.png",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-21T22:22:56.147Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-21T22:50:50.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694876dfac1fbf8400a22144"
+  },
+  "name": "blazer",
+  "image": "uploads\\5b0a8c3e7ae3461710ced698f1fad477",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-21T22:38:23.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-21T22:50:47.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694879be02e7f616cde182b4"
+  },
+  "name": "labtop",
+  "image": "http://localhost:3000/uploads/594f4bb1c951e6c73631ec30771a93f1",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-21T22:50:38.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-21T23:03:32.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694879f402e7f616cde182bb"
+  },
+  "name": "Tishert",
+  "image": "http://localhost:3000/uploads/ee58357538031cb213f1272ab8fcff01",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-21T22:51:32.021Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T10:20:52.036Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69487b168ad6d8c7cc952c54"
+  },
+  "name": "ba",
+  "slug": "ba",
+  "image": "http://localhost:3000/uploads/3b2594c2cf5d217d3400236a5c8d5232",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-21T22:56:22.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-28T14:27:12.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69487b2d8ad6d8c7cc952c56"
+  },
+  "name": "bantlon",
+  "slug": "bantlon",
+  "image": "http://localhost:3000/uploads/feb3fc111578f1776bc87f29beaddcae",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2025-12-21T22:56:45.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-12-22T18:57:33.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69487b4c8ad6d8c7cc952c58"
+  },
+  "name": "Women",
+  "slug": "women",
+  "image": "http://localhost:3000/uploads/58a8d0437a6fcdea5eb868ec7aafa38a",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-21T22:57:16.652Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T14:57:30.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "694995f288592a505b395955"
+  },
+  "name": "Men",
+  "slug": "men",
+  "image": "http://localhost:3000/uploads/371dda542e1b444298a130fac28f9283",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-12-22T19:03:14.403Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-08T14:57:57.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "695ea1f6540c450b715df7ef"
+  },
+  "name": "Keds",
+  "slug": "keds",
+  "image": "http://localhost:3000/uploads/8af4b35c7cc97e3ced72c784f91995d3",
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2026-01-07T18:12:06.283Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-07T18:12:17.755Z"
+  },
+  "__v": 0
+}]

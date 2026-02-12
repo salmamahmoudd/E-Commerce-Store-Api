@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "69613d9bbcb5c3c403bd55a0"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "comment": "\"My experience with this store was amazing! 👗 Every item I bought was top quality and looked exactly like the pictures. Shipping was super fast and customer service was really helpful. I’ll definitely shop here again and recommend it to anyone looking for stylish and trendy clothes!\"",
+  "rating": 5,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2026-01-09T17:40:43.103Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-09T17:40:58.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "696d2f317f8b5f9d1c7a06ed"
+  },
+  "userId": {
+    "$oid": "6958302cc688fe18fead19f3"
+  },
+  "comment": "\"Love the outfit! 😍 The colors and style are so chic and comfy, perfect for any occasion! 👌💖\"",
+  "rating": 3,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2026-01-18T19:06:25.704Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-18T19:16:14.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6977825789ae980405b0737a"
+  },
+  "userId": {
+    "$oid": "697780d589ae980405b0732e"
+  },
+  "comment": "this site is so amazing! there are many cool clothes in this store, and they're all chic and beautiful. keep up the hard work. this store will surely be successful one day!",
+  "rating": 5,
+  "isApproved": true,
+  "createdAt": {
+    "$date": "2026-01-26T15:03:51.397Z"
+  },
+  "updatedAt": {
+    "$date": "2026-01-26T15:04:44.020Z"
+  },
+  "__v": 0
+}]
